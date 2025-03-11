@@ -1,4 +1,4 @@
-# SF-Maps
+# SF Maps
 
 Recreated Shining Force Series Maps
 
